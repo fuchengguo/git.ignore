@@ -1,0 +1,8 @@
+##ignore this file##
+/frontEnd/package.json
+/frontEnd/package-lock.json
+/frontEnd/src/main.js
+/frontEnd/config/index.js
+/php/runtime/
+/php/config/database.php
+/frontEnd/node_modules/
